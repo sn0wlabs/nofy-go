@@ -3,7 +3,7 @@ package upload
 import (
 	"os"
 
-	"go.philip.id/nofy-go/client"
+	"go.slabs.io/nofy-go/client"
 )
 
 type Client struct {

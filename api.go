@@ -3,9 +3,9 @@ package nofy
 import (
 	"encoding/base64"
 
-	"go.philip.id/nofy-go/client"
-	"go.philip.id/nofy-go/customer"
-	"go.philip.id/nofy-go/upload"
+	"go.slabs.io/nofy-go/client"
+	"go.slabs.io/nofy-go/customer"
+	"go.slabs.io/nofy-go/upload"
 )
 
 type API struct {

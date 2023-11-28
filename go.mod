@@ -1,4 +1,4 @@
-module go.philip.id/nofy-go
+module go.slabs.io/nofy-go
 
 go 1.21.3
 
